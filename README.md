@@ -6,6 +6,6 @@
 <p>Ele acompanha comentários para que o usuário possa entender melhor o que cada bloco faz.</p>
 
 <h3>O que são e para que servem?</h3>
-<p>Listas duplamente encadeadas são estruturas de dados que armazenam um nó inicial apontando para o último, um nó meio e um nó final que aponta para o nó inicial. Elas servem para guardar vários valores do mesmo tipo de forma uniforme na memória.</p>
+<p>Listas duplamente encadeadas são estruturas de dados que armazenam um nó inicial apontando para o último, um nó meio e um nó final que aponta para o nó inicial. <br> Elas servem para guardar vários valores do mesmo tipo de forma uniforme na memória.</p>
 
 <h2>Enjoy!</h2>
